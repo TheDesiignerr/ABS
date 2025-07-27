@@ -25,7 +25,7 @@
 
 ## 📌 What is ABS Tool?
 
-**ABS (Auto Bumper Script)** is a Python-based script that automatically sends the `!d bump` command to Disboard every 2 hours — using **user tokens**, not bots, to avoid detection.
+**ABS (Auto Bumper Script)** is a Python-based script that automatically sends the `/bump` command to Disboard every 2 hours — using **user tokens**, not bots, to avoid detection.
 
 Designed to be stealthy, lightweight, and VPS-friendly.
 
